@@ -17,5 +17,5 @@ Please give me the 'z' character '517' times, followed by
 To make things interesting, you have 30 seconds.         
 Input:
 ```
-3. Type in the desktop terminal, according to the question, `python -c "print z*517 + 5"`
+3. Type in the desktop terminal, according to the question, `python -c "print 'z'*517 + '5'"`
 4. Copy and paste this into the terminal. Be as fast as possible ;).
